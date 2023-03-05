@@ -27,7 +27,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= width=200/><br>
+<img src=https://user-images.githubusercontent.com/65370736/222986554-1873a1f2-d6b7-409f-841b-252d85bd368e.gif width=200/><br>
 
 ## Notes
 
