@@ -24,6 +24,7 @@
 		B314499029B28B7700AC914F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B314499429B2983B00AC914F /* MovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MovieCell.swift; sourceTree = "<group>"; };
 		B314499629B3D60100AC914F /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		B3761F3829B535E10017D6B2 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		B382F8AF29AED49400C210DE /* Flixster Pt. 1.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Flixster Pt. 1.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		B382F8B229AED49400C210DE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B382F8B429AED49400C210DE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -48,6 +49,7 @@
 		B382F8A629AED49300C210DE = {
 			isa = PBXGroup;
 			children = (
+				B3761F3829B535E10017D6B2 /* README.md */,
 				B382F8B129AED49400C210DE /* Flixster Pt. 1 */,
 				B382F8B029AED49400C210DE /* Products */,
 			);
