@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  Flixster Pt. 1
 //
-//  Created by TizzyMatic on 2/28/23.
+//  Created by TaeVon Lewis on 2/28/23.
 //
 
 import UIKit
