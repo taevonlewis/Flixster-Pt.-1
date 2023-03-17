@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  Flixster Pt. 1
 //
-//  Created by TizzyMatic on 3/17/23.
+//  Created by TaeVon Lewis on 3/17/23.
 //
 
 import SwiftUI
