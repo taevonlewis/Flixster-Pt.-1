@@ -12,7 +12,6 @@
 		B3A7B92329C4F66E006AA013 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3A7B92229C4F66E006AA013 /* Assets.xcassets */; };
 		B3A7B92629C4F66E006AA013 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B3A7B92529C4F66E006AA013 /* Preview Assets.xcassets */; };
 		B3EEC3CB29C4FDDF00D108CF /* Movie.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3EEC3CA29C4FDDF00D108CF /* Movie.swift */; };
-		B3EEC3CE29C5019300D108CF /* Nuke in Frameworks */ = {isa = PBXBuildFile; productRef = B3EEC3CD29C5019300D108CF /* Nuke */; };
 		B3EEC3D029C5115B00D108CF /* DetailMovieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = B3EEC3CF29C5115B00D108CF /* DetailMovieView.swift */; };
 /* End PBXBuildFile section */
 
@@ -31,7 +30,6 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				B3EEC3CE29C5019300D108CF /* Nuke in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -100,7 +98,6 @@
 			);
 			name = "Flixster Pt. 1";
 			packageProductDependencies = (
-				B3EEC3CD29C5019300D108CF /* Nuke */,
 			);
 			productName = "Flixster Pt. 1";
 			productReference = B3A7B91B29C4F66D006AA013 /* Flixster Pt. 1.app */;
@@ -131,7 +128,6 @@
 			);
 			mainGroup = B3A7B91229C4F66D006AA013;
 			packageReferences = (
-				B3EEC3CC29C5019300D108CF /* XCRemoteSwiftPackageReference "Nuke" */,
 			);
 			productRefGroup = B3A7B91C29C4F66D006AA013 /* Products */;
 			projectDirPath = "";
@@ -363,25 +359,6 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
-
-/* Begin XCRemoteSwiftPackageReference section */
-		B3EEC3CC29C5019300D108CF /* XCRemoteSwiftPackageReference "Nuke" */ = {
-			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/kean/Nuke";
-			requirement = {
-				kind = upToNextMajorVersion;
-				minimumVersion = 9.6.1;
-			};
-		};
-/* End XCRemoteSwiftPackageReference section */
-
-/* Begin XCSwiftPackageProductDependency section */
-		B3EEC3CD29C5019300D108CF /* Nuke */ = {
-			isa = XCSwiftPackageProductDependency;
-			package = B3EEC3CC29C5019300D108CF /* XCRemoteSwiftPackageReference "Nuke" */;
-			productName = Nuke;
-		};
-/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = B3A7B91329C4F66D006AA013 /* Project object */;
 }
