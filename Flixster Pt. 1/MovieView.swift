@@ -8,14 +8,14 @@
 import SwiftUI
 
 struct ContentView: View {
+    let movie: [Movie] = []
+    
     var body: some View {
-        VStack {
-            Image(systemName: "globe")
-                .imageScale(.large)
-                .foregroundColor(.accentColor)
-            Text("Hello, world!")
+        List {
+            ForEach(movie) { movie in
+                
+            }
         }
-        .padding()
     }
 }
 
