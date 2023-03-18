@@ -27,7 +27,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src= width=200/><br>
+| Portait                                      | Landscape                                     |
+|----------------------------------------------|--------------------------------------------|
+| <img src=https://user-images.githubusercontent.com/65370736/226072291-51ee5119-cc03-47ec-b3f8-0d485a453a5d.gif width=300><br> | <img src=https://user-images.githubusercontent.com/65370736/226072311-b9293a5d-1ad0-4326-a74b-ba4cf4258288.gif height=300><br> |
 
 ## Notes
 
