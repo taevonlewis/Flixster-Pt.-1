@@ -23,6 +23,7 @@
 		B3A7B92529C4F66E006AA013 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		B3EEC3CA29C4FDDF00D108CF /* Movie.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Movie.swift; sourceTree = "<group>"; };
 		B3EEC3CF29C5115B00D108CF /* DetailMovieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailMovieView.swift; sourceTree = "<group>"; };
+		B3EEC3D129C535F500D108CF /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -39,6 +40,7 @@
 		B3A7B91229C4F66D006AA013 = {
 			isa = PBXGroup;
 			children = (
+				B3EEC3D129C535F500D108CF /* README.md */,
 				B3A7B91D29C4F66D006AA013 /* Flixster Pt. 1 */,
 				B3A7B91C29C4F66D006AA013 /* Products */,
 			);
